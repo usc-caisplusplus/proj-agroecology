@@ -1,7 +1,7 @@
 # Project Agroecology #
 ---
 Modern western agriculture heavily relies on monocrops, where a singular crop is grown in a field. These practices require widespread clearing of local wildlife, leave soil malnourished and lead to lower yields over time. Polycultures, where multiple crops symbiotically grow together, leverage microclimates to produce a more sustainable food system long-term. However, knowledge surrounding polycultures are localized to indigenous knowledge systems. Project Agroecology aims to build a reinforcement learning (RL) agent to systematically predict crop placement and determine optimal polyculture composition. This project is in collaboration with Dr. Barath Raghavan and has been active since Spring 2022. Currently, a separate team is developing a 3D plant simulator environment. CAIS++'s role is to develop RL agents that will eventually interface with this environment.
-## Summary of Progresso Spring 2022 ##
+## Summary of Progress Spring 2022 ##
 - Gained experiece applying reinforcement learning techniques
 - Developed intuition on nature of problem
 
